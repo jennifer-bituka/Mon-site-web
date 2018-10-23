@@ -1,0 +1,123 @@
+body{
+	background-image:url(images/fond.jpg);
+	background-position:fixed;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position : center;
+	color:#3a3a3a ;
+	font-family:Comfortaa;
+	text-align:justify;
+	text-indent:30px;
+	font-size:14px;
+	line-height:20px;
+}
+
+h1 {
+    text-align:center;
+    font-size: 28px;
+    font-family:Righteous;
+}
+ h2{
+ 	text-align: center;
+ 	font-size:24px;
+ 	font-family:;
+ }
+
+ h4{
+ 	font-size:16px;
+ 	font-style: italic;
+ }
+
+ a{
+ 	text-decoration: none;
+ }
+
+.en-tete{
+	background-color:#eaeaea;
+	color:purple;
+	text-align: center;
+	border: 1px solid #75777a;
+	padding:22PX;
+	margin: 60px 120px;
+	box-shadow: 2px 2px 3px #75777a
+}
+
+a:hover{
+    color:#75777a;
+
+}
+
+.menu{
+	font-size:17px;
+	padding:6px;
+}
+
+
+.intro {
+	text-align: justify;
+	padding:22PX;
+	margin:120px;
+}
+
+.moi {
+	background: none;
+	float:left;
+	margin:40px;
+	width:250px;
+	border:1px solid #75777a ;
+    border-radius: 50%;
+
+}
+
+.poste,.diplome{
+	color:purple;
+	font-weight: bold;
+	font-size:15px;
+}
+.entreprise, .school{
+	color:#bb88e2;
+
+}
+
+.card {
+	background-color:rgb(255, 255, 255, 50%);
+	border: 1px solid #75777a;
+	border-radius:10px;
+	margin: 60px 120px;
+	padding:22px;
+	box-shadow: 2px 2px 3px #75777a;
+}
+
+.speak{
+  list-style-type:none;
+	 width:100%;
+	 padding:0;
+  margin:0;
+
+}
+.informatique{
+	 float:left;
+	 width:100%;
+  padding:0;
+  margin:0;
+  list-style-type:none;
+  display:inline;
+
+}
+.contacts{
+	text-align:center;
+	position:bottom: 0;
+	line-height: 30px;
+}
+
+.langues{
+	width:20px;
+	padding:1px;
+}
+
+#logo
+{
+	font-size: 40px;
+	padding:6px;
+}
