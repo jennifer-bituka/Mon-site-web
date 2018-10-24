@@ -1,14 +1,13 @@
 body{
 	background-image:url(images/fond.jpg);
 	background-position:fixed;
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-size: cover;
-background-position : center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position : center;
 	color:#3a3a3a ;
 	font-family:Comfortaa;
 	text-align:justify;
-	text-indent:30px;
 	font-size:14px;
 	line-height:20px;
 }
@@ -37,20 +36,10 @@ h1 {
     color:#75777a;
  }
 
-@media (max-width:960px) {
-	.container {
-		width: 700px;}
-}
-@media (max-width:720px) {
-	.container {
-        width:400px;
-}
+ li {
+ 	list-style-type:none;
+ }
 
-@media (max-width:540px) {
-	.container {
-		width:350px;
-	}
-}
 
 .en-tete{
     background-color:#eaeaea;
@@ -65,7 +54,8 @@ h1 {
 
 .menu{
 	font-size:15px;
-	padding-left:0px;
+	padding:0px;
+	margin: auto;
 	list-style-type:none;
 }
 
@@ -106,6 +96,8 @@ h1 {
 	line-height:24px;
 }
 
+
+
 .speak{
     list-style-type:none;
 	width:100%;
@@ -136,4 +128,23 @@ h1 {
 {
 	font-size: 40px;
 	padding:6px;
+}
+
+
+@media (max-width:720px) {
+	.container {
+        width:400px;
+	}
+}
+
+@media (max-width:968px) {
+	.container {
+        width:750px;
+	}
+}
+
+@media (max-width:540px) {
+	.container {
+        width:300px;
+	}
 }
