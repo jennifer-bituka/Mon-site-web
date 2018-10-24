@@ -43,14 +43,14 @@ h1 {
 }
 @media (max-width:720px) {
 	.container {
-        width:(600px;
+        width:(500px;
 	}
 
 }
 
 @media (max-width:540px) {
 	.container {
-		width:300px;
+		width:350px;
 	}
 }
 
