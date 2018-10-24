@@ -44,8 +44,6 @@ h1 {
 @media (max-width:720px) {
 	.container {
         width:400px;
-	}
-
 }
 
 @media (max-width:540px) {
