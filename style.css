@@ -43,14 +43,14 @@ h1 {
 }
 @media (max-width:720px) {
 	.container {
-        width:600px;
+        width:(00px;
 	}
 
 }
 
 @media (max-width:540px) {
 	.container {
-		width:350px;
+		width:300px;
 	}
 }
 
@@ -108,18 +108,18 @@ h1 {
 }
 
 .speak{
-  list-style-type:none;
-	 width:100%;
-	 padding-left:0;
-  margin:0;
+    list-style-type:none;
+	width:100%;
+	padding-left:0;
+    margin:0;
 
 }
 .informatique{
-	 float:left;
-	 width:100%;
-  padding-left:0;
-  margin:0;
-  list-style-type:none;
+	float:left;
+	width:100%;
+    padding-left:0;
+    margin:0;
+    list-style-type:none;
 
 }
 .contacts{
