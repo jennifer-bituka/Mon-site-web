@@ -6,6 +6,7 @@ README.md
   2. Commit une modification 
   Pre requis avoir fait le petit 1
   - taper git status pour voir si il y a u changement 
+  - si changement, git pull (récupérer ancienne version)
   - taper git add ./
   - taper git commit -m "nom de la modif"
   - taper git push
